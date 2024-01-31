@@ -3,7 +3,7 @@
 # Terms 
 > This bot will be used only for interaction, moderation in general, mini-games.. <br>
 If you want to contribute to the development or even to divulgating for your communities who search for <br>
-a bot, feel free to dm me in my ___Discord Account: loudqck___ (dms are open)
+a bot, feel free to dm me!
 <br>
 <br>
 <br>
